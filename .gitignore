@@ -34,3 +34,8 @@ tyrian.sav
 
 # Doxygen output
 /doc/doxygen/
+
+# CMake + (VS/VScode) output directories
+build/**
+out/**
+.vs/**
